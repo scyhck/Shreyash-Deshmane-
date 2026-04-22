@@ -92,7 +92,8 @@ Database (PostgreSQL) + Cache (Redis)
 
 🔽 Clone Repository
 
-git clone https://github.com/your-username/news-sentiment-analysis.git
+
+https://github.com/scyhck/news-senti
 
 📁 Navigate to Project
 
